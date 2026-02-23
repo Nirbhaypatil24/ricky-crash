@@ -1,0 +1,9 @@
+# System packages installed via apt:
+# sudo apt install python3-pyqt5
+# sudo apt install python3-rpi.gpio  
+# sudo apt install python3-serial
+# sudo apt install python3-pyqt5.qtwebengine
+
+# Python packages for map functionality
+folium>=0.14.0
+requests>=2.28.0
